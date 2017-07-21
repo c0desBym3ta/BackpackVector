@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/UserW7m3ra/Desktop/Projects/BackpackVector/Backpack.h
+vector
+-
+iostream
+-
+string
+-
+list
+-
+
+C:/Users/UserW7m3ra/Desktop/Projects/BackpackVector/main.cpp
+list
+-
+iostream
+-
+string
+-
+Backpack.h
+C:/Users/UserW7m3ra/Desktop/Projects/BackpackVector/Backpack.h
+

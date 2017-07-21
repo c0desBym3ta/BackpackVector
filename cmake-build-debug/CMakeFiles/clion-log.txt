@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2017.1.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\UserW7m3ra\Desktop\Projects\BackpackVector
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/UserW7m3ra/Desktop/Projects/BackpackVector/cmake-build-debug

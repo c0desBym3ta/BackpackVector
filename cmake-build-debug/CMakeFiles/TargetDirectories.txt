@@ -1,0 +1,3 @@
+C:/Users/UserW7m3ra/Desktop/Projects/BackpackVector/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/UserW7m3ra/Desktop/Projects/BackpackVector/cmake-build-debug/CMakeFiles/BackpackVector.dir
+C:/Users/UserW7m3ra/Desktop/Projects/BackpackVector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
